@@ -77,6 +77,6 @@
 <p>
 "Para ser bem-sucedido, seu desejo de vitória deve ser maior que o medo de fracassar."</p>
 
-<img align="center" alt ="Python" src="https://img.freepik.com/fotos-gratis/chessman-e-alterado-para-a-sombra-da-coroa_1150-19664.jpg?w=900&t=st=1662489570~exp=1662490170~hmac=5b155750194b6638ef51fe44bedd0fecbd15b2828534092887b4f431c05b7ee3"  width="200" />
+<img align="center" alt ="Python" src="https://img.freepik.com/fotos-gratis/chessman-e-alterado-para-a-sombra-da-coroa_1150-19664.jpg?w=900&t=st=1662489570~exp=1662490170~hmac=5b155750194b6638ef51fe44bedd0fecbd15b2828534092887b4f431c05b7ee3"  width="150" />
 
 </div>
