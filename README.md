@@ -1,12 +1,12 @@
 # Olá, eu sou o Ruan Castro 👋
 ## Sobre mim
-💻 Front-end Developer - 🇧🇷 Brazilian - ❤️ João Pessoa
+💻 Full Stack Developer - 🇧🇷 Brazilian - ❤️ João Pessoa
 
 ⚡  Bacharel em Engenharia Elétrica
 
 🌱  Estudando desenvolvimento web full stack
 
-🎯 Buscando uma oportunidade como dev front-end
+🎯 Buscando uma oportunidade como dev full-stack
 
  <br/>
  
