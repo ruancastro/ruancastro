@@ -1,12 +1,10 @@
 # Olá, eu sou o Ruan Castro 👋
 ## Sobre mim
-💻 Full Stack Developer - 🇧🇷 Brazilian - ❤️ João Pessoa
+💻 Data engineer - 🇧🇷 Brazilian - ❤️ João Pessoa
 
-⚡  Bacharel em Engenharia Elétrica
+⚡ Bachelor in Electrical Engineering
 
-🌱  Estudando desenvolvimento web full stack
-
-🎯 Buscando uma oportunidade como dev full-stack
+🌱 Studying data engineering
 
  <br/>
  
@@ -39,7 +37,6 @@
 <img align="center" alt ="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img align="center" alt ="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img align="center" alt ="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img align="center" alt ="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div>
 
 <br/>
@@ -75,7 +72,7 @@
 <br/>
 <hr>
 <p>
-"Para ser bem-sucedido, seu desejo de vitória deve ser maior que o medo de fracassar."</p>
+"To be successful, your desire to win must be greater than your fear of failure."</p>
 
 <img align="center" alt ="Python" src="https://img.freepik.com/fotos-gratis/chessman-e-alterado-para-a-sombra-da-coroa_1150-19664.jpg?w=900&t=st=1662489570~exp=1662490170~hmac=5b155750194b6638ef51fe44bedd0fecbd15b2828534092887b4f431c05b7ee3"  width="150" />
 
