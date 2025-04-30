@@ -4,8 +4,6 @@
 
 ⚡ Bachelor in Electrical Engineering
 
-🌱 Studying data engineering
-
  <br/>
  
 ## 📩 Contact
